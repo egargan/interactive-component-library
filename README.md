@@ -1,4 +1,4 @@
-# `@guardian/interactive-component-library`
+# `@guardian/interactive-component-library` bar
 
 A set of reusable components for use in interactive pages, written in Preact using [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) principles.
 
